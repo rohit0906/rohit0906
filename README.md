@@ -1,10 +1,8 @@
 Hi, I am Rohit Verma. I am a BTech. Final Year student at [Madan Mohan Malaviya University of Technology](http://mmmut.ac.in/).
 
-Skills👨‍💻: Python, Machine Learning, Deep Learning, Sci-kit learn, TensorFlow, Keras, OpenCV, Nltk, C++, Flask, HTML, SQL, AWS.
-
-Experience🎯: Computer Vision intern at [Tessellate Imaging](https://github.com/Tessellate-Imaging).
-
-Projects🤖: [Prognosis App](https://github.com/Green-io/Prognosis-placement), [Fire-Detection System](https://github.com/rohit0906/fire-detector), [Harvest Predictor](https://github.com/rohit0906/predict_harvest), and [Stock Sentiment Analysis using News Articles](https://github.com/rohit0906/stock-sentiment).
+* Skills👨‍💻: Python, Machine Learning, Deep Learning, Sci-kit learn, TensorFlow, Keras, OpenCV, Nltk, C++, Flask, HTML, SQL, AWS.
+* Experience🎯: Computer Vision intern at [Tessellate Imaging](https://github.com/Tessellate-Imaging).
+* Projects🤖: [Prognosis App](https://github.com/Green-io/Prognosis-placement), [Fire-Detection System](https://github.com/rohit0906/fire-detector), [Harvest Predictor](https://github.com/rohit0906/predict_harvest), and [Stock Sentiment Analysis using News Articles](https://github.com/rohit0906/stock-sentiment).
 
 <p align="">
 	<a href="https://github.com/rohit0906"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub" alt="GitHub"></a>
