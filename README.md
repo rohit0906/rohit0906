@@ -7,7 +7,7 @@ Hi, I am Rohit Verma. I am a BTech. Final Year student at [Madan Mohan Malaviya 
 <p align="">
 	<a href="https://www.linkedin.com/in/rohit96"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://medium.com/@rtverma121"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"></a>
-	<a href="https://https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=rtverma121@gmail.com"><img src="https://img.shields.io/badge/Mail At--_.svg?style=social&logo=Gmail" alt="Mail"></a>
+	<a href="mailto:rtverma121@gmail.com"><img src="https://img.shields.io/badge/Mail At--_.svg?style=social&logo=Gmail" alt="Mail"></a>
 </p>
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohit0906&count_private=true&hide=stars,issues&show_icons=true&theme=dark)
