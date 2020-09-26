@@ -10,4 +10,4 @@ Hi, I am Rohit Verma. I am a BTech. Final Year student at [Madan Mohan Malaviya 
 	<a href="mailto:rtverma121@gmail.com"><img src="https://img.shields.io/badge/Mail At--_.svg?style=social&logo=Gmail" alt="Mail"></a>
 </p>
 
-![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohit0906&count_private=true&hide=stars,issues&show_icons=true&theme=dark)
+![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohit0906&count_private=true&hide=issues&show_icons=true&theme=dark)
