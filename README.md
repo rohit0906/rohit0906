@@ -1,4 +1,4 @@
-Hi, I am Rohit Verma. I am a BTech. Final Year student at [Madan Mohan Malaviya University of Technology](http://mmmut.ac.in/).
+Hi, I am Rohit Verma. SDE-1 at Hummingwave Technologies.
 
 * Skills👨‍💻: Python, Machine Learning, Deep Learning, Sci-kit learn, TensorFlow, Keras, OpenCV, Nltk, C++, Flask, HTML, SQL, AWS.
 * Experience🎯: Computer Vision intern at [Tessellate Imaging](https://github.com/Tessellate-Imaging).(August-October 2020)
